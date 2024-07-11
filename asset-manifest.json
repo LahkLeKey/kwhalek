@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kwhalek/static/css/main.f855e6bc.css",
+    "main.js": "/kwhalek/static/js/main.ab1bf58d.js",
+    "static/js/453.feef4dce.chunk.js": "/kwhalek/static/js/453.feef4dce.chunk.js",
+    "static/media/logo.svg": "/kwhalek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kwhalek/index.html",
+    "main.f855e6bc.css.map": "/kwhalek/static/css/main.f855e6bc.css.map",
+    "main.ab1bf58d.js.map": "/kwhalek/static/js/main.ab1bf58d.js.map",
+    "453.feef4dce.chunk.js.map": "/kwhalek/static/js/453.feef4dce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ab1bf58d.js"
+  ]
+}
